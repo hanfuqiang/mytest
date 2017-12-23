@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: springboot01-test
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.itheima
+Build-Jdk: 1.7.0_45
+Built-By: hanfuqiangcyy
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/springboot01
+ -test/
+
